@@ -1,5 +1,5 @@
 # python_podyplomowka
 
--ad
--sdfg
--tyi
+- ad
+- sdfg
+- tyi
